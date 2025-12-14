@@ -1,0 +1,7 @@
+module Ammaw
+typeinfo appAmmaw.qmltypes
+prefer :/qt/qml/Ammaw/
+Main 254.0 Main.qml
+DetailView 254.0 DetailView.qml
+depends QtQuick
+
